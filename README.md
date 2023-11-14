@@ -12,16 +12,14 @@ By the end of this path you will be able to:
 
 
 ## Table of Content (project's repositories structure )
-| Project Name   |      Deadline      |
-|----------------|:-------------:|
-| NetProject01 |  1 Dec |
-| NetProject02 |    4 Dec   |
-| NetProject03 | 13 Dec |
+| Project Number   |      Project Name  | Deadline   |
+|----------------|:-------------:|:----:|
+| NetProject01 |  [IP Address Resolver](https://github.com/LamRAM/IPAddressResolver) |   21 Nov     | 
 
 
 ## Submitting Process
 - Fork the project repository.
 - Make your changes to the project template.
-- Submit a merge request.
+- Submit a pull/merge request.
 
 > All questions and concerns regarding the projects share it using github issues.
