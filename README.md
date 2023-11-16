@@ -21,6 +21,7 @@ By the end of this path you will be able to:
 | Project ID   |      Project Title  | Deadline   |
 |----------------|:-------------:|:----:|
 | NetProject01 |  [IP Address Resolver](https://github.com/LamRAM/IPAddressResolver) |   21 Nov     | 
+| NetProject02| [URL Investigator](https://github.com/LamRAM/URL-Investigator) | 26 Nov |
 
 
 
