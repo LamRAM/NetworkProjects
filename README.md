@@ -3,7 +3,7 @@
 ## Introduction 
 This path will cover two main parts regarding networks from software developer perspective.  The main network concepts and how we could use these concept in our development journey.
 
-> This path is divided into resource stack that will cover the mian concepts related to the path itself, and project stack which helps validate your understanding of these concepts.
+> This path is divided into resource stack that will cover the main concepts related to the path itself, and project stack which helps validate your understanding of these concepts.
 
 
 ## Objectives
@@ -40,8 +40,8 @@ By the end of this path you will be able to:
 
 | Resource ID  | Resource Title                                                                                                                                                                                                                                                                                                                     | Type   | Issue ID                                                       | Deadline  |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------- | --------- |
-| NetResource01 | Resource 01| Course | #1 | 1/12/2023 |
-|              |                                                                                                                                                                                                                                                                                                                                    |        |                                                                |           |
+| NetResource01 | [Network Concepts & Protocols](https://app.pluralsight.com/library/courses/network-concepts-protocols-cert/table-of-contents)| Course | [#1] | 1/12/2023 |
+| NetResource02 |   [Java The Complemete Reference 12 edition](https://www.google.com.sa/books/edition/Java_The_Complete_Reference_Twelfth_Edit/iXlIEAAAQBAJ?hl=en&gbpv=0&bsq=Java%20The%20Complete%20Reference%2012th%20edition) , Chapter 24: Networking |   Book     |  [#2] |     10/12/2023      |
 
 ### Submitting Process
 
