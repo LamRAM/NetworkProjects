@@ -40,7 +40,7 @@ By the end of this path you will be able to:
 
 | Resource ID  | Resource Title                                                                                                                                                                                                                                                                                                                     | Type   | Issue ID                                                       | Deadline  |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------- | --------- |
-| NetResource01 | [Network Concepts & Protocols](https://app.pluralsight.com/library/courses/network-concepts-protocols-cert/table-of-contents)| Course | [#1](https://github.com/SAFCSP-Team/Network-Path/issues/1) | 17 Dec 2023 |
+| NetResource01 | [Network Concepts & Protocols](https://app.pluralsight.com/library/courses/network-concepts-protocols-cert/table-of-contents), Chapter 1 to Chapter 6| Course | [#1](https://github.com/SAFCSP-Team/Network-Path/issues/1) | 17 Dec 2023 |
 | NetResource02 |   [Java The Complete Reference 12 edition](https://www.google.com.sa/books/edition/Java_The_Complete_Reference_Twelfth_Edit/iXlIEAAAQBAJ?hl=en&gbpv=0&bsq=Java%20The%20Complete%20Reference%2012th%20edition) , Chapter 24: Networking |   Book     |  [#2](https://github.com/SAFCSP-Team/Network-Path/issues/2) |     28 Dec 2023      |
 
 ### Submitting Process
