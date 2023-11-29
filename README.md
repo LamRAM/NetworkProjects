@@ -3,7 +3,7 @@
 ## Introduction 
 This path will cover two main parts regarding networks from software developer perspective.  The main network concepts and how we could use these concepts in our development journey.
 
-> This path is divided into resource stack that will cover the main concepts related to the path itself, and project stack which helps validate your understanding of these concepts.
+> This path is divided into resource stack which will cover the main concepts related to the path itself, and project stack which helps validate your understanding of these concepts.
 
 
 ## Objectives
@@ -20,8 +20,8 @@ By the end of this path you will be able to:
 
 | Project ID   |      Project Title  | Deadline   |
 |----------------|:-------------:|:----:|
-| NetProject01 |  [IP Address Resolver](https://github.com/SAFCSP-Team/IPAddressResolver) |   30 Nov 2023   | 
-| NetProject02| [URL Investigator](https://github.com/SAFCSP-Team/URL-Investigator) | 3 Dec 2023 |
+| NetProject01 |  [IP Address Resolver](https://github.com/SAFCSP-Team/IPAddressResolver) |  7 Dec 2023   | 
+| NetProject02| [URL Investigator](https://github.com/SAFCSP-Team/URL-Investigator) | 7 Dec 2023 |
 
 
 
@@ -31,7 +31,7 @@ By the end of this path you will be able to:
 * Make your changes to the project.
 * Submit a pull/merge request.
 
-> All questions and concerns regarding the projects share it using github issues.
+> All questions and concerns regarding the projects are using Github issues.
 
 ## Resource Stack
 
